@@ -9,6 +9,7 @@ public class Clase2
 		System.out.println("Cambio para otra rama");
 		System.out.println("Cambio rama1");
 		System.out.println("Hola a tod@s");
+		System.out.println("Cambio desde remoto");
 	}
 
 }
